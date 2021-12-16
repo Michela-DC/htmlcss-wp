@@ -110,8 +110,6 @@ nav ul li{
 .section-2 [class^="col-"]{
     float: left;
     position: relative;
-    /* HEIGHT SARà DA TOGLIERE per adattare img
-    height: 536px; */
 }
 
 .col-1, .col-3{
